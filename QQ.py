@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import random
 
 random.seed(3)
 nomral = list(random.normal(loc=0, scale=10, size=1200))
